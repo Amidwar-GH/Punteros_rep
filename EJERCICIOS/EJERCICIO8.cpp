@@ -67,4 +67,6 @@ void contabilizador(char *contadorLetra){
     cout<<"I = "<<contI<<endl;
     cout<<"O = "<<contO<<endl;
     cout<<"U = "<<contU<<endl;
+
+    cout<<"\n\nPROGRAMA FINALIZADO, GRACIAS\n\n";
 }
